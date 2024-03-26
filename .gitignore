@@ -1,0 +1,5 @@
+venv
+*.pyc
+
+# For Mac users, also ignore
+.DS_Store
