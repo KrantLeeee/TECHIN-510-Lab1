@@ -33,6 +33,6 @@ with col1:
 with col2:
     st.image('my avatar1.jpg', caption='My Recent Photo', use_column_width=True)
 
-    st.image('My Painting.jpg', caption='My Painting', use_column_width=True)
+    st.image('https://github.com/KrantLeeee/TECHIN-510-Lab1/blob/main/My%20Painting.JPG', caption='My Painting', use_column_width=True)
 
     st.video('walking.mov')
