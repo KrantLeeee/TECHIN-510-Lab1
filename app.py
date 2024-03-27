@@ -31,8 +31,8 @@ with col1:
 
 # Add img & video
 with col2:
-    st.image('my avatar1.jpg', caption='My Recent Photo', use_column_width=True)
+    st.image('https://github.com/KrantLeeee/TECHIN-510-Lab1/blob/main/my_avatar1.JPG', caption='My Recent Photo', use_column_width=True)
 
-    st.image('https://github.com/KrantLeeee/TECHIN-510-Lab1/blob/main/My%20Painting.JPG', caption='My Painting', use_column_width=True)
+    st.image('https://github.com/KrantLeeee/TECHIN-510-Lab1/blob/main/my_painting.JPG', caption='My Painting', use_column_width=True)
 
-    st.video('walking.mov')
+    st.video('https://github.com/KrantLeeee/TECHIN-510-Lab1/blob/main/walking.mov')
