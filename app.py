@@ -30,9 +30,9 @@ with col1:
     st.write("I am addicted to music 🎸, travel 🚗, detective novel 🕵🏻‍♂️ and philosophy 🧐")
 
 # Add img & video
-with col2:
-    st.image('https://github.com/KrantLeeee/TECHIN-510-Lab1/blob/main/my_avatar1.JPG', caption='My Recent Photo', use_column_width=True)
+with col2:  
+    st.image('https://raw.githubusercontent.com/KrantLeeee/TECHIN-510-Lab1/main/my_avatar1.JPG', caption='My Recent Photo', use_column_width=True)
 
-    st.image('https://github.com/KrantLeeee/TECHIN-510-Lab1/blob/main/my_painting.JPG', caption='My Painting', use_column_width=True)
+    st.image('https://raw.githubusercontent.com/KrantLeeee/TECHIN-510-Lab1/main/my_painting.JPG', caption='My Painting', use_column_width=True)
 
-    st.video('https://github.com/KrantLeeee/TECHIN-510-Lab1/blob/main/walking.mov')
+    st.video('https://raw.githubusercontent.com/KrantLeeee/TECHIN-510-Lab1/main/walking.mov')
